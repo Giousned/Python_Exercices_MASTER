@@ -13,6 +13,8 @@ def square_odd_numbers(string):
 
 
 print(square_odd_numbers("1,2,3,4,5,6,7,8,9"))
+print(square_odd_numbers("10,21,32,43,54,65,76,87,98"))
+
 
 
 
